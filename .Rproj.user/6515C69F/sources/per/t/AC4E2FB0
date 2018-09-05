@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536047416248.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "189815202",
+    "id" : "AC4E2FB0",
+    "lastKnownWriteTime" : 1536047360,
+    "last_content_update" : 1536047360,
+    "path" : "C:/Users/cc/Downloads/code-handout.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
